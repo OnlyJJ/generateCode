@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 27 23:59:00 CST 2015
+http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public/.error=Could not transfer artifact commons-digester\:commons-digester\:jar\:1.8 from/to nexus (http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public)\: gzsvn.pousheng.com
+@default-nexus-http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public/.lastUpdated=1438012592289
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1438012740152
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-digester\:commons-digester\:jar\:1.8 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

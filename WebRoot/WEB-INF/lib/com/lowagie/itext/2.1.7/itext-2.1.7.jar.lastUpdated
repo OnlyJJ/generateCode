@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 27 23:58:56 CST 2015
+http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.lowagie\:itext\:jar\:2.1.7 from/to nexus (http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public)\: gzsvn.pousheng.com
+@default-nexus-http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public/.lastUpdated=1438012592192
+https\://repo.maven.apache.org/maven2/.lastUpdated=1438012736490

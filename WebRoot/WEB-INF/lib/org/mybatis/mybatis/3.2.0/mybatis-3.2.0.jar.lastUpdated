@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 27 23:58:52 CST 2015
+http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.mybatis\:mybatis\:jar\:3.2.0 from/to nexus (http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public)\: gzsvn.pousheng.com
+@default-nexus-http\://gzsvn.pousheng.com\:8081/nexus/content/groups/public/.lastUpdated=1438012592099
+https\://repo.maven.apache.org/maven2/.lastUpdated=1438012732756
